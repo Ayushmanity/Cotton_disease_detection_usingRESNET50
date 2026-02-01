@@ -1,1 +1,1 @@
-# SugerCane_disease_detection_usingRESNET50
+# SugarCane_disease_detection_usingRESNET50
