@@ -1,1 +1,1 @@
-# Cotton_disease_detection_usingDYNO
+# Cotton_disease_detection_usingDINO
