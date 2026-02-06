@@ -1,1 +1,1 @@
-# SugarCane_disease_detection_usingRESNET50
+# Cotton_disease_detection_usingDYNO
